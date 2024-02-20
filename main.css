@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #c91a94;
+  background-color: #f5f6fa;
 }
 
 li {
@@ -64,7 +64,7 @@ section {
 
 .product-button {
   display: block;
-  background-color: #e41bc9;
+  background-color: #44bd32;
   color: #fff;
   text-align: center;
   padding: 8px 0;
@@ -74,7 +74,7 @@ section {
 }
 
 .product-button:hover {
-  background-color: #e41bc9;
+  background-color: #44bd32;
 }
 
 @media screen and (max-width: 1023px) {
