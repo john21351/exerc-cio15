@@ -1,10 +1,10 @@
 {
-  "name": "projeto-sass",
+  "name": "exercicio_15",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass",
+    "sass": "sass main.scss main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
